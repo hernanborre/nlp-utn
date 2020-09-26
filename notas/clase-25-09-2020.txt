@@ -1,0 +1,18 @@
+https://www.streamlit.io/
+
+https://jupyter.org/
+
+I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)
+https://www.youtube.com/watch?v=7jiPeIFXb6U
+
+Package manager (python)
+https://www.anaconda.com/ (instalar miniconda)
+
+conda --version
+conda install jupyterlab
+conda install -n notebook_env nb_conda_kernels
+
+
+
+Alternativa a Jupyter Lab / Notebook 
+https://colab.research.google.com/
